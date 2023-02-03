@@ -8,3 +8,4 @@ const pelicula = {
     duracionMinutos: 47,
     
 }
+
